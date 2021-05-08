@@ -1,3 +1,7 @@
+Defiining the difference between UHD and QLED.
+Markese Jones
+Thhe purpose of this tutorial is to explain the difference between UHD and QLED.
+The target audience is for peeople trying to decide on a telvision they should purchase based on the graphical features.
 # Whats the difference between UHD and QLED?
 ## __What is UHD__?
 Lets begin with defining UHD, UHD stands for Ultra High Definition. It means that a Tv has a 4K display or in some cases 8k.
